@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "74794399074",
+    "project_id": "fir-flutter-codela-7690c",
+    "storage_bucket": "fir-flutter-codela-7690c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:74794399074:android:dac4701be2eb443b75283b",
+        "android_client_info": {
+          "package_name": "com.example.gtk_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwkrQnh6skn0y6qHxfcSg8WIUICY7M4vU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
